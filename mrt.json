@@ -1,0 +1,231 @@
+[
+  {
+    "connectedStations": [
+      "Kwasa Sentral",
+      "Cochrane"
+    ],
+    "name": "Kwasa Damansara"
+  },
+  {
+    "connectedStations": [
+      "Kwasa Damansara",
+      "Kota Damansara"
+    ],
+    "name": "Kwasa Sentral"
+  },
+  {
+    "connectedStations": [
+      "Kwasa Sentral",
+      "Surian",
+      "Bukit Dukung"
+    ],
+    "name": "Kota Damansara"
+  },
+  {
+    "connectedStations": [
+      "Kota Damansara",
+      "Mutiara Damansara"
+    ],
+    "name": "Surian"
+  },
+  {
+    "connectedStations": [
+      "Surian",
+      "Bandar Utama"
+    ],
+    "name": "Mutiara Damansara"
+  },
+  {
+    "connectedStations": [
+      "Mutiara Damansara",
+      "TTDI"
+    ],
+    "name": "Bandar Utama"
+  },
+  {
+    "connectedStations": [
+      "Bandar Utama",
+      "Pusat Bandar Damansara",
+      "Metro Prima"
+    ],
+    "name": "TTDI"
+  },
+  {
+    "connectedStations": [
+      "TTDI",
+      "Semantan"
+    ],
+    "name": "Pusat Bandar Damansara"
+  },
+  {
+    "connectedStations": [
+      "Pusat Bandar Damansara",
+      "Muzium Negara"
+    ],
+    "name": "Semantan"
+  },
+  {
+    "connectedStations": [
+      "Semantan",
+      "Pasar Seni"
+    ],
+    "name": "Muzium Negara"
+  },
+  {
+    "connectedStations": [
+      "Muzium Negara",
+      "Merdeka"
+    ],
+    "name": "Pasar Seni"
+  },
+  {
+    "connectedStations": [
+      "Pasar Seni",
+      "Ampang Park"
+    ],
+    "name": "Merdeka"
+  },
+  {
+    "connectedStations": [
+      "Cochrane",
+      "UPM"
+    ],
+    "name": "Tun Razak Exchange"
+  },
+  {
+    "connectedStations": [
+      "Kwasa Damansara",
+      "Tun Razak Exchange",
+      "Maluri"
+    ],
+    "name": "Cochrane"
+  },
+  {
+    "connectedStations": [
+      "Cochrane",
+      "Taman Pertama",
+      "Conlay"
+    ],
+    "name": "Maluri"
+  },
+  {
+    "connectedStations": [
+      "Maluri",
+      "Taman Midah"
+    ],
+    "name": "Taman Pertama"
+  },
+  {
+    "connectedStations": [
+      "Taman Pertama",
+      "Bandar Tun Hussein Onn"
+    ],
+    "name": "Taman Midah"
+  },
+  {
+    "connectedStations": [
+      "Taman Midah",
+      "Bukit Dukung",
+      "Hospital Kuala Lumpur",
+      "Putrajaya Sentral"
+    ],
+    "name": "Bandar Tun Hussein Onn"
+  },
+  {
+    "connectedStations": [
+      "Kota Damansara",
+      "Bandar Tun Hussein Onn",
+      "Stadium Kajang"
+    ],
+    "name": "Bukit Dukung"
+  },
+  {
+    "connectedStations": [
+      "Bukit Dukung",
+      "Kajang"
+    ],
+    "name": "Stadium Kajang"
+  },
+  {
+    "connectedStations": [
+      "Stadium Kajang",
+      "UPM"
+    ],
+    "name": "Kajang"
+  },
+  {
+    "connectedStations": ["Sri Damansara Sentral"],
+    "name": "Sungai Buloh"
+  },
+  {
+    "connectedStations": [
+      "Sungai Buloh",
+      "Metro Prima"
+    ],
+    "name": "Sri Damansara Sentral"
+  },
+  {
+    "connectedStations": [
+      "TTDI",
+      "Sri Damansara Sentral",
+      "Kentonmen"
+    ],
+    "name": "Metro Prima"
+  },
+  {
+    "connectedStations": [
+      "Metro Prima",
+      "Titiwangsa"
+    ],
+    "name": "Kentonmen"
+  },
+  {
+    "connectedStations": [
+      "Kentonmen",
+      "Hospital Kuala Lumpur"
+    ],
+    "name": "Titiwangsa"
+  },
+  {
+    "connectedStations": [
+      "Bandar Tun Hussein Onn",
+      "Titiwangsa",
+      "Ampang Park"
+    ],
+    "name": "Hospital Kuala Lumpur"
+  },
+  {
+    "connectedStations": [
+      "Merdeka",
+      "Hospital Kuala Lumpur",
+      "Conlay"
+    ],
+    "name": "Ampang Park"
+  },
+  {
+    "connectedStations": [
+      "Maluri",
+      "Ampang Park"
+    ],
+    "name": "Conlay"
+  },
+  {
+    "connectedStations": [
+      "Tun Razak Exchange",
+      "Kajang",
+      "Putrajaya Sentral"
+    ],
+    "name": "UPM"
+  },
+  {
+    "connectedStations": [
+      "Bandar Tun Hussein Onn",
+      "UPM"
+    ],
+    "name": "Putrajaya Sentral"
+  },
+  {
+    "connectedStations": [],
+    "name": "Bukit Jalil"
+  }
+]
